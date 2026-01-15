@@ -64,8 +64,7 @@ You can:
 
 ## Contact
 For questions about this privacy policy, contact:
-- Email: [your-email@example.com]
-- GitHub: [your-github-repo-link]
+- Email: [easonfrank17@gmail.com]
 
 ## Compliance
 This extension complies with:
